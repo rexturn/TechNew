@@ -1,0 +1,673 @@
+[Tue Aug 11 00:04:01 2026] PHP 8.2.12 Development Server (http://localhost:8080) started
+[Tue Aug 11 00:04:06 2026] [::1]:58269 Accepted
+[Tue Aug 11 00:04:06 2026] [::1]:58269 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Aug 11 00:04:06 2026] [::1]:58269 Closing
+[Tue Aug 11 00:04:17 2026] [::1]:58273 Accepted
+[Tue Aug 11 00:04:17 2026] [::1]:58273 Closing
+[Tue Aug 11 00:04:38 2026] [::1]:58284 Accepted
+[Tue Aug 11 00:04:38 2026] [::1]:58284 Closing
+[Tue Aug 11 00:04:38 2026] [::1]:58287 Accepted
+[Tue Aug 11 00:04:38 2026] [::1]:58287 Closing
+[Tue Aug 11 00:04:38 2026] [::1]:58289 Accepted
+[Tue Aug 11 00:04:38 2026] [::1]:58289 Closing
+[Tue Aug 11 00:04:38 2026] [::1]:58291 Accepted
+[Tue Aug 11 00:04:38 2026] [::1]:58291 Closing
+[Tue Aug 11 00:04:38 2026] [::1]:58293 Accepted
+[Tue Aug 11 00:04:39 2026] [::1]:58293 Closing
+[Tue Aug 11 00:04:39 2026] [::1]:58295 Accepted
+[Tue Aug 11 00:04:39 2026] [::1]:58295 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:04:39 2026] [::1]:58295 Closing
+[Tue Aug 11 00:04:39 2026] [::1]:58296 Accepted
+[Tue Aug 11 00:04:39 2026] [::1]:58296 [200]: GET /assets/img/favicon.svg
+[Tue Aug 11 00:04:39 2026] [::1]:58296 Closing
+[Tue Aug 11 00:04:39 2026] [::1]:58297 Accepted
+[Tue Aug 11 00:04:39 2026] [::1]:58297 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:04:39 2026] [::1]:58297 Closing
+[Tue Aug 11 00:04:55 2026] [::1]:58306 Accepted
+[Tue Aug 11 00:04:55 2026] [::1]:58306 Closing
+[Tue Aug 11 00:04:55 2026] [::1]:58308 Accepted
+[Tue Aug 11 00:04:55 2026] [::1]:58308 Closing
+[Tue Aug 11 00:04:55 2026] [::1]:58310 Accepted
+[Tue Aug 11 00:04:56 2026] [::1]:58310 Closing
+[Tue Aug 11 00:04:56 2026] [::1]:58312 Accepted
+[Tue Aug 11 00:04:56 2026] [::1]:58312 Closing
+[Tue Aug 11 00:04:56 2026] [::1]:58314 Accepted
+[Tue Aug 11 00:04:56 2026] [::1]:58314 Closing
+[Tue Aug 11 00:04:56 2026] [::1]:58316 Accepted
+[Tue Aug 11 00:04:56 2026] [::1]:58316 Closing
+[Tue Aug 11 00:05:06 2026] [::1]:58325 Accepted
+[Tue Aug 11 00:05:06 2026] [::1]:58325 Closing
+[Tue Aug 11 00:05:06 2026] [::1]:58328 Accepted
+[Tue Aug 11 00:05:06 2026] [::1]:58328 Closing
+[Tue Aug 11 00:05:06 2026] [::1]:58330 Accepted
+[Tue Aug 11 00:05:06 2026] [::1]:58330 Closing
+[Tue Aug 11 00:05:06 2026] [::1]:58332 Accepted
+[Tue Aug 11 00:05:06 2026] [::1]:58332 Closing
+[Tue Aug 11 00:05:06 2026] [::1]:58334 Accepted
+[Tue Aug 11 00:05:06 2026] [::1]:58334 Closing
+[Tue Aug 11 00:06:12 2026] [::1]:50068 Accepted
+[Tue Aug 11 00:06:12 2026] [::1]:50068 Closing
+[Tue Aug 11 00:06:23 2026] [::1]:57385 Accepted
+[Tue Aug 11 00:06:23 2026] [::1]:57385 Closing
+[Tue Aug 11 00:06:23 2026] [::1]:57388 Accepted
+[Tue Aug 11 00:06:23 2026] [::1]:57388 Closing
+[Tue Aug 11 00:06:35 2026] [::1]:54902 Accepted
+[Tue Aug 11 00:06:36 2026] [::1]:54902 Closing
+[Tue Aug 11 00:06:36 2026] [::1]:54904 Accepted
+[Tue Aug 11 00:06:36 2026] [::1]:54904 Closing
+[Tue Aug 11 00:06:36 2026] [::1]:54906 Accepted
+[Tue Aug 11 00:06:36 2026] [::1]:54906 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:53535 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:53535 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:54598 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:54598 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:07:02 2026] [::1]:56315 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:63415 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:56315 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:07:02 2026] [::1]:49282 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:63415 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:07:02 2026] [::1]:54598 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:49282 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:07:02 2026] [::1]:56315 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:63415 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:49282 Closing
+[Tue Aug 11 00:07:02 2026] [::1]:58719 Accepted
+[Tue Aug 11 00:07:02 2026] [::1]:58719 [200]: GET /assets/img/favicon.svg
+[Tue Aug 11 00:07:02 2026] [::1]:58719 Closing
+[Tue Aug 11 00:07:51 2026] [::1]:51385 Accepted
+[Tue Aug 11 00:07:51 2026] [::1]:54057 Accepted
+[Tue Aug 11 00:07:51 2026] [::1]:51385 Closing
+[Tue Aug 11 00:07:52 2026] [::1]:54057 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:07:52 2026] [::1]:54057 Closing
+[Tue Aug 11 00:07:52 2026] [::1]:55167 Accepted
+[Tue Aug 11 00:07:52 2026] [::1]:55167 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:07:52 2026] [::1]:50379 Accepted
+[Tue Aug 11 00:07:52 2026] [::1]:51491 Accepted
+[Tue Aug 11 00:07:52 2026] [::1]:50379 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:07:52 2026] [::1]:51491 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:07:52 2026] [::1]:55167 Closing
+[Tue Aug 11 00:07:52 2026] [::1]:50379 Closing
+[Tue Aug 11 00:07:52 2026] [::1]:51491 Closing
+[Tue Aug 11 00:07:52 2026] [::1]:56813 Accepted
+[Tue Aug 11 00:07:52 2026] [::1]:56813 [200]: GET /assets/img/favicon.svg
+[Tue Aug 11 00:07:52 2026] [::1]:56813 Closing
+[Tue Aug 11 00:09:29 2026] [::1]:64128 Accepted
+[Tue Aug 11 00:09:30 2026] [::1]:50236 Accepted
+[Tue Aug 11 00:09:40 2026] [::1]:64128 Closing
+[Tue Aug 11 00:09:40 2026] [::1]:57124 Accepted
+[Tue Aug 11 00:09:41 2026] [::1]:50236 Closing
+[Tue Aug 11 00:09:41 2026] [::1]:61962 Accepted
+[Tue Aug 11 00:09:42 2026] [::1]:57124 Closing
+[Tue Aug 11 00:09:42 2026] [::1]:61433 Accepted
+[Tue Aug 11 00:09:43 2026] [::1]:61962 Closing
+[Tue Aug 11 00:09:43 2026] [::1]:63111 Accepted
+[Tue Aug 11 00:09:43 2026] [::1]:61433 Closing
+[Tue Aug 11 00:09:44 2026] [::1]:60798 Accepted
+[Tue Aug 11 00:09:44 2026] [::1]:63111 Closing
+[Tue Aug 11 00:09:44 2026] [::1]:59506 Accepted
+[Tue Aug 11 00:09:45 2026] [::1]:60798 Closing
+[Tue Aug 11 00:09:45 2026] [::1]:59506 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:09:45 2026] [::1]:59506 Closing
+[Tue Aug 11 00:09:45 2026] [::1]:63015 Accepted
+[Tue Aug 11 00:09:45 2026] [::1]:63015 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:09:45 2026] [::1]:57307 Accepted
+[Tue Aug 11 00:09:45 2026] [::1]:57370 Accepted
+[Tue Aug 11 00:09:45 2026] [::1]:57307 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:09:45 2026] [::1]:57370 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:09:45 2026] [::1]:63015 Closing
+[Tue Aug 11 00:09:45 2026] [::1]:57307 Closing
+[Tue Aug 11 00:09:45 2026] [::1]:57370 Closing
+[Tue Aug 11 00:09:57 2026] [::1]:52041 Accepted
+[Tue Aug 11 00:09:57 2026] [::1]:58969 Accepted
+[Tue Aug 11 00:09:58 2026] [::1]:52041 Closing
+[Tue Aug 11 00:09:58 2026] [::1]:58969 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:09:58 2026] [::1]:58969 Closing
+[Tue Aug 11 00:09:58 2026] [::1]:50354 Accepted
+[Tue Aug 11 00:09:58 2026] [::1]:50354 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:09:58 2026] [::1]:50354 Closing
+[Tue Aug 11 00:10:02 2026] [::1]:49979 Accepted
+[Tue Aug 11 00:10:02 2026] [::1]:56411 Accepted
+[Tue Aug 11 00:10:03 2026] [::1]:49979 Closing
+[Tue Aug 11 00:10:03 2026] [::1]:56411 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:10:03 2026] [::1]:56411 Closing
+[Tue Aug 11 00:10:03 2026] [::1]:55460 Accepted
+[Tue Aug 11 00:10:03 2026] [::1]:55460 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:10:03 2026] [::1]:55460 Closing
+[Tue Aug 11 00:10:03 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:10:03 2026] [::1]:49669 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:10:03 2026] [::1]:49669 Closing
+[Tue Aug 11 00:10:03 2026] [::1]:55457 Accepted
+[Tue Aug 11 00:10:03 2026] [::1]:55457 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:10:03 2026] [::1]:55457 Closing
+[Tue Aug 11 00:10:27 2026] [::1]:59632 Accepted
+[Tue Aug 11 00:10:28 2026] [::1]:58637 Accepted
+[Tue Aug 11 00:10:28 2026] [::1]:59632 Closing
+[Tue Aug 11 00:10:28 2026] [::1]:58637 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:10:28 2026] [::1]:58637 Closing
+[Tue Aug 11 00:10:28 2026] [::1]:62573 Accepted
+[Tue Aug 11 00:10:28 2026] [::1]:62573 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:10:28 2026] [::1]:62573 Closing
+[Tue Aug 11 00:10:28 2026] [::1]:56825 Accepted
+[Tue Aug 11 00:10:28 2026] [::1]:56825 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:10:28 2026] [::1]:56825 Closing
+[Tue Aug 11 00:10:40 2026] [::1]:55214 Accepted
+[Tue Aug 11 00:10:40 2026] [::1]:57617 Accepted
+[Tue Aug 11 00:10:42 2026] [::1]:55214 Closing
+[Tue Aug 11 00:10:42 2026] [::1]:57617 Closing
+[Tue Aug 11 00:10:45 2026] [::1]:49991 Accepted
+[Tue Aug 11 00:10:45 2026] [::1]:51719 Accepted
+[Tue Aug 11 00:10:45 2026] [::1]:51719 Closing
+[Tue Aug 11 00:10:45 2026] [::1]:49991 Closing
+[Tue Aug 11 00:11:09 2026] [::1]:56590 Accepted
+[Tue Aug 11 00:11:09 2026] [::1]:53784 Accepted
+[Tue Aug 11 00:11:09 2026] [::1]:56590 Closing
+[Tue Aug 11 00:11:10 2026] [::1]:53784 Closing
+[Tue Aug 11 00:11:21 2026] [::1]:55601 Accepted
+[Tue Aug 11 00:11:21 2026] [::1]:56720 Accepted
+[Tue Aug 11 00:11:21 2026] [::1]:55601 Closing
+[Tue Aug 11 00:11:21 2026] [::1]:56720 Closing
+[Tue Aug 11 00:11:21 2026] [::1]:64018 Accepted
+[Tue Aug 11 00:11:21 2026] [::1]:64018 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:11:21 2026] [::1]:64018 Closing
+[Tue Aug 11 00:11:34 2026] [::1]:58389 Accepted
+[Tue Aug 11 00:11:34 2026] [::1]:60653 Accepted
+[Tue Aug 11 00:11:34 2026] [::1]:58389 Closing
+[Tue Aug 11 00:11:34 2026] [::1]:60653 Closing
+[Tue Aug 11 00:11:35 2026] [::1]:61659 Accepted
+[Tue Aug 11 00:11:35 2026] [::1]:61659 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:11:35 2026] [::1]:61659 Closing
+[Tue Aug 11 00:11:41 2026] [::1]:62676 Accepted
+[Tue Aug 11 00:11:42 2026] [::1]:62676 Closing
+[Tue Aug 11 00:11:42 2026] [::1]:54346 Accepted
+[Tue Aug 11 00:11:42 2026] [::1]:54346 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:11:42 2026] [::1]:54346 Closing
+[Tue Aug 11 00:11:42 2026] [::1]:53574 Accepted
+[Tue Aug 11 00:11:42 2026] [::1]:53574 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:11:42 2026] [::1]:57421 Accepted
+[Tue Aug 11 00:11:42 2026] [::1]:50060 Accepted
+[Tue Aug 11 00:11:42 2026] [::1]:57421 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:11:42 2026] [::1]:50060 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:11:42 2026] [::1]:53574 Closing
+[Tue Aug 11 00:11:42 2026] [::1]:57421 Closing
+[Tue Aug 11 00:11:42 2026] [::1]:50060 Closing
+[Tue Aug 11 00:11:45 2026] [::1]:52427 Accepted
+[Tue Aug 11 00:11:46 2026] [::1]:63631 Accepted
+[Tue Aug 11 00:11:46 2026] [::1]:52427 Closing
+[Tue Aug 11 00:11:46 2026] [::1]:63631 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:11:46 2026] [::1]:63631 Closing
+[Tue Aug 11 00:11:46 2026] [::1]:55032 Accepted
+[Tue Aug 11 00:11:46 2026] [::1]:55032 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:11:46 2026] [::1]:55032 Closing
+[Tue Aug 11 00:11:51 2026] [::1]:51388 Accepted
+[Tue Aug 11 00:11:51 2026] [::1]:54330 Accepted
+[Tue Aug 11 00:11:52 2026] [::1]:51388 Closing
+[Tue Aug 11 00:11:52 2026] [::1]:54330 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:11:52 2026] [::1]:57808 Accepted
+[Tue Aug 11 00:11:52 2026] [::1]:57808 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:11:52 2026] [::1]:54330 Closing
+[Tue Aug 11 00:11:52 2026] [::1]:57808 Closing
+[Tue Aug 11 00:11:55 2026] [::1]:58027 Accepted
+[Tue Aug 11 00:11:55 2026] [::1]:59259 Accepted
+[Tue Aug 11 00:11:55 2026] [::1]:58027 Closing
+[Tue Aug 11 00:11:55 2026] [::1]:59259 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:11:55 2026] [::1]:59259 Closing
+[Tue Aug 11 00:11:57 2026] [::1]:63469 Accepted
+[Tue Aug 11 00:11:57 2026] [::1]:61373 Accepted
+[Tue Aug 11 00:11:58 2026] [::1]:63469 Closing
+[Tue Aug 11 00:11:58 2026] [::1]:61373 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:11:58 2026] [::1]:61373 Closing
+[Tue Aug 11 00:11:58 2026] [::1]:60480 Accepted
+[Tue Aug 11 00:11:58 2026] [::1]:64755 Accepted
+[Tue Aug 11 00:11:58 2026] [::1]:60480 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:11:58 2026] [::1]:64755 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:11:58 2026] [::1]:60480 Closing
+[Tue Aug 11 00:11:58 2026] [::1]:64755 Closing
+[Tue Aug 11 00:11:58 2026] [::1]:60038 Accepted
+[Tue Aug 11 00:11:58 2026] [::1]:60038 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:11:58 2026] [::1]:60038 Closing
+[Tue Aug 11 00:12:56 2026] [::1]:51959 Accepted
+[Tue Aug 11 00:12:56 2026] [::1]:51959 Closing
+[Tue Aug 11 00:12:56 2026] [::1]:51961 Accepted
+[Tue Aug 11 00:12:56 2026] [::1]:51961 Closing
+[Tue Aug 11 00:13:20 2026] [::1]:60788 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:60788 Closing
+[Tue Aug 11 00:13:22 2026] [::1]:60278 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:56018 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:60278 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:13:22 2026] [::1]:65417 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:56018 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:13:22 2026] [::1]:52302 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:65417 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:13:22 2026] [::1]:52302 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:13:22 2026] [::1]:60278 Closing
+[Tue Aug 11 00:13:22 2026] [::1]:56018 Closing
+[Tue Aug 11 00:13:22 2026] [::1]:65417 Closing
+[Tue Aug 11 00:13:22 2026] [::1]:52302 Closing
+[Tue Aug 11 00:13:22 2026] [::1]:60103 Accepted
+[Tue Aug 11 00:13:22 2026] [::1]:60103 [200]: GET /assets/img/favicon.svg
+[Tue Aug 11 00:13:22 2026] [::1]:60103 Closing
+[Tue Aug 11 00:14:26 2026] [::1]:58697 Accepted
+[Tue Aug 11 00:14:26 2026] [::1]:60023 Accepted
+[Tue Aug 11 00:14:26 2026] [::1]:58697 Closing
+[Tue Aug 11 00:14:26 2026] [::1]:60023 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:14:26 2026] [::1]:60023 Closing
+[Tue Aug 11 00:14:27 2026] [::1]:61010 Accepted
+[Tue Aug 11 00:14:27 2026] [::1]:61010 [200]: GET /assets/img/favicon.svg
+[Tue Aug 11 00:14:27 2026] [::1]:61010 Closing
+[Tue Aug 11 00:15:12 2026] [::1]:58686 Accepted
+[Tue Aug 11 00:15:12 2026] [::1]:58686 Closing
+[Tue Aug 11 00:15:12 2026] [::1]:58688 Accepted
+[Tue Aug 11 00:15:12 2026] [::1]:58688 Closing
+[Tue Aug 11 00:16:40 2026] [::1]:51735 Accepted
+[Tue Aug 11 00:16:40 2026] [::1]:63328 Accepted
+[Tue Aug 11 00:16:41 2026] [::1]:63328 Closing
+[Tue Aug 11 00:16:41 2026] [::1]:51735 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:16:41 2026] [::1]:51735 Closing
+[Tue Aug 11 00:16:41 2026] [::1]:64975 Accepted
+[Tue Aug 11 00:16:41 2026] [::1]:64975 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:16:41 2026] [::1]:63423 Accepted
+[Tue Aug 11 00:16:41 2026] [::1]:64975 Closing
+[Tue Aug 11 00:16:41 2026] [::1]:64458 Accepted
+[Tue Aug 11 00:16:41 2026] [::1]:63423 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:16:41 2026] [::1]:64458 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:16:41 2026] [::1]:63423 Closing
+[Tue Aug 11 00:16:41 2026] [::1]:64458 Closing
+[Tue Aug 11 00:19:00 2026] [::1]:62235 Accepted
+[Tue Aug 11 00:19:00 2026] [::1]:59357 Accepted
+[Tue Aug 11 00:19:05 2026] [::1]:59357 Closing
+[Tue Aug 11 00:19:06 2026] [::1]:62235 Closing
+[Tue Aug 11 00:19:06 2026] [::1]:54730 Accepted
+[Tue Aug 11 00:19:06 2026] [::1]:54730 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:19:06 2026] [::1]:54730 Closing
+[Tue Aug 11 00:19:18 2026] [::1]:60888 Accepted
+[Tue Aug 11 00:19:18 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:19:18 2026] [::1]:60888 Closing
+[Tue Aug 11 00:19:18 2026] [::1]:49669 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:19:18 2026] [::1]:49669 Closing
+[Tue Aug 11 00:19:28 2026] [::1]:59721 Accepted
+[Tue Aug 11 00:19:29 2026] [::1]:53067 Accepted
+[Tue Aug 11 00:19:29 2026] [::1]:59721 Closing
+[Tue Aug 11 00:19:29 2026] [::1]:53067 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:19:29 2026] [::1]:53067 Closing
+[Tue Aug 11 00:19:29 2026] [::1]:54689 Accepted
+[Tue Aug 11 00:19:29 2026] [::1]:61813 Accepted
+[Tue Aug 11 00:19:29 2026] [::1]:65150 Accepted
+[Tue Aug 11 00:19:29 2026] [::1]:54689 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:19:29 2026] [::1]:61813 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:19:29 2026] [::1]:65150 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:19:29 2026] [::1]:54689 Closing
+[Tue Aug 11 00:19:29 2026] [::1]:61813 Closing
+[Tue Aug 11 00:19:29 2026] [::1]:65150 Closing
+[Tue Aug 11 00:19:36 2026] [::1]:54809 Accepted
+[Tue Aug 11 00:19:36 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:19:36 2026] [::1]:54809 Closing
+[Tue Aug 11 00:19:36 2026] [::1]:49669 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:19:36 2026] [::1]:49669 Closing
+[Tue Aug 11 00:19:36 2026] [::1]:51911 Accepted
+[Tue Aug 11 00:19:36 2026] [::1]:51911 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:19:36 2026] [::1]:51911 Closing
+[Tue Aug 11 00:19:59 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:19:59 2026] [::1]:54161 Accepted
+[Tue Aug 11 00:19:59 2026] [::1]:49669 Closing
+[Tue Aug 11 00:19:59 2026] [::1]:54161 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:19:59 2026] [::1]:54161 Closing
+[Tue Aug 11 00:19:59 2026] [::1]:64657 Accepted
+[Tue Aug 11 00:19:59 2026] [::1]:64657 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:19:59 2026] [::1]:64458 Accepted
+[Tue Aug 11 00:19:59 2026] [::1]:51007 Accepted
+[Tue Aug 11 00:19:59 2026] [::1]:64458 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:19:59 2026] [::1]:51007 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:19:59 2026] [::1]:64657 Closing
+[Tue Aug 11 00:19:59 2026] [::1]:64458 Closing
+[Tue Aug 11 00:19:59 2026] [::1]:51007 Closing
+[Tue Aug 11 00:44:20 2026] [::1]:58127 Accepted
+[Tue Aug 11 00:44:20 2026] [::1]:52363 Accepted
+[Tue Aug 11 00:44:20 2026] [::1]:58127 Closing
+[Tue Aug 11 00:44:20 2026] [::1]:52363 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:20 2026] [::1]:52363 Closing
+[Tue Aug 11 00:44:20 2026] [::1]:51604 Accepted
+[Tue Aug 11 00:44:20 2026] [::1]:51604 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:44:20 2026] [::1]:51604 Closing
+[Tue Aug 11 00:44:20 2026] [::1]:62822 Accepted
+[Tue Aug 11 00:44:20 2026] [::1]:50561 Accepted
+[Tue Aug 11 00:44:20 2026] [::1]:62822 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:44:20 2026] [::1]:50561 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:44:20 2026] [::1]:62822 Closing
+[Tue Aug 11 00:44:20 2026] [::1]:50561 Closing
+[Tue Aug 11 00:44:29 2026] [::1]:64828 Accepted
+[Tue Aug 11 00:44:29 2026] [::1]:52664 Accepted
+[Tue Aug 11 00:44:29 2026] [::1]:64828 Closing
+[Tue Aug 11 00:44:29 2026] [::1]:55105 Accepted
+[Tue Aug 11 00:44:30 2026] [::1]:55105 Closing
+[Tue Aug 11 00:44:30 2026] [::1]:60473 Accepted
+[Tue Aug 11 00:44:30 2026] [::1]:52664 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:30 2026] [::1]:60473 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:44:30 2026] [::1]:52664 Closing
+[Tue Aug 11 00:44:30 2026] [::1]:60473 Closing
+[Tue Aug 11 00:44:37 2026] [::1]:62030 Accepted
+[Tue Aug 11 00:44:37 2026] [::1]:60597 Accepted
+[Tue Aug 11 00:44:37 2026] [::1]:62030 Closing
+[Tue Aug 11 00:44:38 2026] [::1]:60597 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:38 2026] [::1]:60597 Closing
+[Tue Aug 11 00:44:45 2026] [::1]:57739 Accepted
+[Tue Aug 11 00:44:45 2026] [::1]:63539 Accepted
+[Tue Aug 11 00:44:45 2026] [::1]:57739 Closing
+[Tue Aug 11 00:44:45 2026] [::1]:63539 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:45 2026] [::1]:63539 Closing
+[Tue Aug 11 00:44:45 2026] [::1]:60327 Accepted
+[Tue Aug 11 00:44:45 2026] [::1]:60327 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:44:45 2026] [::1]:60327 Closing
+[Tue Aug 11 00:44:51 2026] [::1]:53877 Accepted
+[Tue Aug 11 00:44:51 2026] [::1]:64863 Accepted
+[Tue Aug 11 00:44:52 2026] [::1]:53877 Closing
+[Tue Aug 11 00:44:52 2026] [::1]:64863 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:52 2026] [::1]:64863 Closing
+[Tue Aug 11 00:44:52 2026] [::1]:62212 Accepted
+[Tue Aug 11 00:44:52 2026] [::1]:62212 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:44:52 2026] [::1]:62212 Closing
+[Tue Aug 11 00:44:54 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:44:54 2026] [::1]:64185 Accepted
+[Tue Aug 11 00:44:55 2026] [::1]:49669 Closing
+[Tue Aug 11 00:44:55 2026] [::1]:64185 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:55 2026] [::1]:64185 Closing
+[Tue Aug 11 00:44:55 2026] [::1]:53276 Accepted
+[Tue Aug 11 00:44:55 2026] [::1]:53276 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:44:55 2026] [::1]:53276 Closing
+[Tue Aug 11 00:44:56 2026] [::1]:56187 Accepted
+[Tue Aug 11 00:44:57 2026] [::1]:62666 Accepted
+[Tue Aug 11 00:44:57 2026] [::1]:56187 Closing
+[Tue Aug 11 00:44:57 2026] [::1]:62666 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:44:57 2026] [::1]:62666 Closing
+[Tue Aug 11 00:44:57 2026] [::1]:55268 Accepted
+[Tue Aug 11 00:44:57 2026] [::1]:55268 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:44:57 2026] [::1]:50614 Accepted
+[Tue Aug 11 00:44:57 2026] [::1]:53183 Accepted
+[Tue Aug 11 00:44:57 2026] [::1]:50614 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:44:57 2026] [::1]:53183 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:44:57 2026] [::1]:55268 Closing
+[Tue Aug 11 00:44:57 2026] [::1]:50614 Closing
+[Tue Aug 11 00:44:57 2026] [::1]:53183 Closing
+[Tue Aug 11 00:45:35 2026] [::1]:52716 Accepted
+[Tue Aug 11 00:45:35 2026] [::1]:64820 Accepted
+[Tue Aug 11 00:45:35 2026] [::1]:52716 Closing
+[Tue Aug 11 00:45:35 2026] [::1]:64820 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:35 2026] [::1]:64820 Closing
+[Tue Aug 11 00:45:35 2026] [::1]:62187 Accepted
+[Tue Aug 11 00:45:35 2026] [::1]:62187 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:45:35 2026] [::1]:64598 Accepted
+[Tue Aug 11 00:45:35 2026] [::1]:64598 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:35 2026] [::1]:62187 Closing
+[Tue Aug 11 00:45:35 2026] [::1]:64598 Closing
+[Tue Aug 11 00:45:38 2026] [::1]:56302 Accepted
+[Tue Aug 11 00:45:38 2026] [::1]:56302 Closing
+[Tue Aug 11 00:45:38 2026] [::1]:59165 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:59165 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:39 2026] [::1]:59165 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:61955 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:61955 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:45:39 2026] [::1]:63621 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:50933 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:63621 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:45:39 2026] [::1]:50933 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:39 2026] [::1]:61955 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:63621 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:50933 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:49823 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:55390 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:49823 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:55390 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:39 2026] [::1]:55390 Closing
+[Tue Aug 11 00:45:39 2026] [::1]:61056 Accepted
+[Tue Aug 11 00:45:39 2026] [::1]:61056 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:45:39 2026] [::1]:61056 Closing
+[Tue Aug 11 00:45:41 2026] [::1]:49669 Accepted
+[Tue Aug 11 00:45:41 2026] [::1]:49671 Accepted
+[Tue Aug 11 00:45:41 2026] [::1]:49669 Closing
+[Tue Aug 11 00:45:41 2026] [::1]:49671 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:41 2026] [::1]:49671 Closing
+[Tue Aug 11 00:45:41 2026] [::1]:50294 Accepted
+[Tue Aug 11 00:45:41 2026] [::1]:50294 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:41 2026] [::1]:50294 Closing
+[Tue Aug 11 00:45:42 2026] [::1]:54946 Accepted
+[Tue Aug 11 00:45:42 2026] [::1]:63775 Accepted
+[Tue Aug 11 00:45:43 2026] [::1]:54946 Closing
+[Tue Aug 11 00:45:43 2026] [::1]:63775 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:43 2026] [::1]:63775 Closing
+[Tue Aug 11 00:45:43 2026] [::1]:58023 Accepted
+[Tue Aug 11 00:45:43 2026] [::1]:58023 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:43 2026] [::1]:58023 Closing
+[Tue Aug 11 00:45:43 2026] [::1]:56028 Accepted
+[Tue Aug 11 00:45:43 2026] [::1]:61804 Accepted
+[Tue Aug 11 00:45:44 2026] [::1]:56028 Closing
+[Tue Aug 11 00:45:44 2026] [::1]:61804 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:44 2026] [::1]:61804 Closing
+[Tue Aug 11 00:45:44 2026] [::1]:56749 Accepted
+[Tue Aug 11 00:45:44 2026] [::1]:56749 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:44 2026] [::1]:56749 Closing
+[Tue Aug 11 00:45:44 2026] [::1]:58778 Accepted
+[Tue Aug 11 00:45:45 2026] [::1]:56941 Accepted
+[Tue Aug 11 00:45:45 2026] [::1]:58778 Closing
+[Tue Aug 11 00:45:45 2026] [::1]:56941 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:45:45 2026] [::1]:56941 Closing
+[Tue Aug 11 00:45:45 2026] [::1]:56258 Accepted
+[Tue Aug 11 00:45:45 2026] [::1]:56258 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:45:45 2026] [::1]:49343 Accepted
+[Tue Aug 11 00:45:45 2026] [::1]:49343 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:45:45 2026] [::1]:63512 Accepted
+[Tue Aug 11 00:45:45 2026] [::1]:56258 Closing
+[Tue Aug 11 00:45:45 2026] [::1]:63512 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:45:45 2026] [::1]:49343 Closing
+[Tue Aug 11 00:45:45 2026] [::1]:63512 Closing
+[Tue Aug 11 00:46:00 2026] [::1]:51756 Accepted
+[Tue Aug 11 00:46:00 2026] [::1]:51727 Accepted
+[Tue Aug 11 00:46:00 2026] [::1]:51756 Closing
+[Tue Aug 11 00:46:00 2026] [::1]:51727 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:00 2026] [::1]:51727 Closing
+[Tue Aug 11 00:46:00 2026] [::1]:64328 Accepted
+[Tue Aug 11 00:46:00 2026] [::1]:64328 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:00 2026] [::1]:64328 Closing
+[Tue Aug 11 00:46:01 2026] [::1]:61739 Accepted
+[Tue Aug 11 00:46:02 2026] [::1]:63016 Accepted
+[Tue Aug 11 00:46:02 2026] [::1]:61739 Closing
+[Tue Aug 11 00:46:02 2026] [::1]:63016 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:02 2026] [::1]:63016 Closing
+[Tue Aug 11 00:46:02 2026] [::1]:62328 Accepted
+[Tue Aug 11 00:46:02 2026] [::1]:62328 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:02 2026] [::1]:62328 Closing
+[Tue Aug 11 00:46:03 2026] [::1]:56808 Accepted
+[Tue Aug 11 00:46:03 2026] [::1]:56808 Closing
+[Tue Aug 11 00:46:03 2026] [::1]:53234 Accepted
+[Tue Aug 11 00:46:03 2026] [::1]:53234 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:03 2026] [::1]:53234 Closing
+[Tue Aug 11 00:46:03 2026] [::1]:64225 Accepted
+[Tue Aug 11 00:46:03 2026] [::1]:64225 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:03 2026] [::1]:64225 Closing
+[Tue Aug 11 00:46:03 2026] [::1]:58932 Accepted
+[Tue Aug 11 00:46:04 2026] [::1]:55269 Accepted
+[Tue Aug 11 00:46:04 2026] [::1]:58932 Closing
+[Tue Aug 11 00:46:04 2026] [::1]:55269 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:04 2026] [::1]:55269 Closing
+[Tue Aug 11 00:46:04 2026] [::1]:61744 Accepted
+[Tue Aug 11 00:46:04 2026] [::1]:61744 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:04 2026] [::1]:61744 Closing
+[Tue Aug 11 00:46:04 2026] [::1]:60258 Accepted
+[Tue Aug 11 00:46:04 2026] [::1]:55209 Accepted
+[Tue Aug 11 00:46:05 2026] [::1]:60258 Closing
+[Tue Aug 11 00:46:05 2026] [::1]:55209 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:05 2026] [::1]:55209 Closing
+[Tue Aug 11 00:46:05 2026] [::1]:53490 Accepted
+[Tue Aug 11 00:46:05 2026] [::1]:53490 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:05 2026] [::1]:53490 Closing
+[Tue Aug 11 00:46:05 2026] [::1]:60062 Accepted
+[Tue Aug 11 00:46:05 2026] [::1]:60062 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:05 2026] [::1]:60062 Closing
+[Tue Aug 11 00:46:05 2026] [::1]:59113 Accepted
+[Tue Aug 11 00:46:05 2026] [::1]:50379 Accepted
+[Tue Aug 11 00:46:05 2026] [::1]:59113 Closing
+[Tue Aug 11 00:46:06 2026] [::1]:50379 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:06 2026] [::1]:50379 Closing
+[Tue Aug 11 00:46:06 2026] [::1]:50940 Accepted
+[Tue Aug 11 00:46:06 2026] [::1]:50940 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:06 2026] [::1]:50940 Closing
+[Tue Aug 11 00:46:06 2026] [::1]:59795 Accepted
+[Tue Aug 11 00:46:06 2026] [::1]:52277 Accepted
+[Tue Aug 11 00:46:06 2026] [::1]:59795 Closing
+[Tue Aug 11 00:46:06 2026] [::1]:52277 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:06 2026] [::1]:52277 Closing
+[Tue Aug 11 00:46:07 2026] [::1]:55937 Accepted
+[Tue Aug 11 00:46:07 2026] [::1]:60040 Accepted
+[Tue Aug 11 00:46:07 2026] [::1]:55937 Closing
+[Tue Aug 11 00:46:07 2026] [::1]:60040 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:07 2026] [::1]:60040 Closing
+[Tue Aug 11 00:46:07 2026] [::1]:53587 Accepted
+[Tue Aug 11 00:46:07 2026] [::1]:53587 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:07 2026] [::1]:53587 Closing
+[Tue Aug 11 00:46:12 2026] [::1]:54450 Accepted
+[Tue Aug 11 00:46:12 2026] [::1]:51198 Accepted
+[Tue Aug 11 00:46:12 2026] [::1]:54450 Closing
+[Tue Aug 11 00:46:12 2026] [::1]:51198 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:12 2026] [::1]:51198 Closing
+[Tue Aug 11 00:46:12 2026] [::1]:63140 Accepted
+[Tue Aug 11 00:46:12 2026] [::1]:63140 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:12 2026] [::1]:51335 Accepted
+[Tue Aug 11 00:46:12 2026] [::1]:55254 Accepted
+[Tue Aug 11 00:46:12 2026] [::1]:63140 Closing
+[Tue Aug 11 00:46:12 2026] [::1]:51335 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:12 2026] [::1]:55254 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:12 2026] [::1]:51335 Closing
+[Tue Aug 11 00:46:12 2026] [::1]:55254 Closing
+[Tue Aug 11 00:46:13 2026] [::1]:58260 Accepted
+[Tue Aug 11 00:46:13 2026] [::1]:53701 Accepted
+[Tue Aug 11 00:46:13 2026] [::1]:58260 Closing
+[Tue Aug 11 00:46:13 2026] [::1]:53701 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:13 2026] [::1]:53701 Closing
+[Tue Aug 11 00:46:13 2026] [::1]:58073 Accepted
+[Tue Aug 11 00:46:13 2026] [::1]:58073 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:13 2026] [::1]:58073 Closing
+[Tue Aug 11 00:46:14 2026] [::1]:64964 Accepted
+[Tue Aug 11 00:46:14 2026] [::1]:58621 Accepted
+[Tue Aug 11 00:46:15 2026] [::1]:64964 Closing
+[Tue Aug 11 00:46:15 2026] [::1]:58621 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:15 2026] [::1]:58621 Closing
+[Tue Aug 11 00:46:15 2026] [::1]:50443 Accepted
+[Tue Aug 11 00:46:15 2026] [::1]:50443 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:15 2026] [::1]:50443 Closing
+[Tue Aug 11 00:46:15 2026] [::1]:52365 Accepted
+[Tue Aug 11 00:46:16 2026] [::1]:55428 Accepted
+[Tue Aug 11 00:46:16 2026] [::1]:52365 Closing
+[Tue Aug 11 00:46:16 2026] [::1]:55428 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:16 2026] [::1]:55428 Closing
+[Tue Aug 11 00:46:16 2026] [::1]:50681 Accepted
+[Tue Aug 11 00:46:16 2026] [::1]:50681 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:16 2026] [::1]:53947 Accepted
+[Tue Aug 11 00:46:16 2026] [::1]:53947 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:16 2026] [::1]:54104 Accepted
+[Tue Aug 11 00:46:16 2026] [::1]:50681 Closing
+[Tue Aug 11 00:46:16 2026] [::1]:54104 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:16 2026] [::1]:53947 Closing
+[Tue Aug 11 00:46:16 2026] [::1]:54104 Closing
+[Tue Aug 11 00:46:27 2026] [::1]:60707 Accepted
+[Tue Aug 11 00:46:27 2026] [::1]:65161 Accepted
+[Tue Aug 11 00:46:27 2026] [::1]:60707 Closing
+[Tue Aug 11 00:46:27 2026] [::1]:65161 Closing
+[Tue Aug 11 00:46:27 2026] [::1]:61506 Accepted
+[Tue Aug 11 00:46:27 2026] [::1]:61506 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:27 2026] [::1]:61506 Closing
+[Tue Aug 11 00:46:32 2026] [::1]:65406 Accepted
+[Tue Aug 11 00:46:32 2026] [::1]:51067 Accepted
+[Tue Aug 11 00:46:32 2026] [::1]:65406 Closing
+[Tue Aug 11 00:46:32 2026] [::1]:51067 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:32 2026] [::1]:51067 Closing
+[Tue Aug 11 00:46:32 2026] [::1]:61213 Accepted
+[Tue Aug 11 00:46:32 2026] [::1]:61213 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:32 2026] [::1]:62107 Accepted
+[Tue Aug 11 00:46:32 2026] [::1]:64240 Accepted
+[Tue Aug 11 00:46:32 2026] [::1]:62107 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:32 2026] [::1]:64240 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:32 2026] [::1]:61213 Closing
+[Tue Aug 11 00:46:32 2026] [::1]:62107 Closing
+[Tue Aug 11 00:46:32 2026] [::1]:64240 Closing
+[Tue Aug 11 00:46:33 2026] [::1]:62721 Accepted
+[Tue Aug 11 00:46:33 2026] [::1]:52739 Accepted
+[Tue Aug 11 00:46:33 2026] [::1]:62721 Closing
+[Tue Aug 11 00:46:33 2026] [::1]:52739 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:33 2026] [::1]:52739 Closing
+[Tue Aug 11 00:46:37 2026] [::1]:60410 Accepted
+[Tue Aug 11 00:46:37 2026] [::1]:51637 Accepted
+[Tue Aug 11 00:46:37 2026] [::1]:60410 Closing
+[Tue Aug 11 00:46:37 2026] [::1]:51637 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:37 2026] [::1]:51637 Closing
+[Tue Aug 11 00:46:38 2026] [::1]:57546 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:60492 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:57546 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:60492 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:39 2026] [::1]:60492 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:64120 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:64838 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:64120 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:64838 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:39 2026] [::1]:64838 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:57422 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:57422 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:39 2026] [::1]:59657 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:50861 Accepted
+[Tue Aug 11 00:46:39 2026] [::1]:57422 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:59657 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:39 2026] [::1]:50861 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:39 2026] [::1]:59657 Closing
+[Tue Aug 11 00:46:39 2026] [::1]:50861 Closing
+[Tue Aug 11 00:46:42 2026] [::1]:56569 Accepted
+[Tue Aug 11 00:46:42 2026] [::1]:63758 Accepted
+[Tue Aug 11 00:46:42 2026] [::1]:56569 Closing
+[Tue Aug 11 00:46:42 2026] [::1]:63758 [200]: GET /assets/css/style.css
+[Tue Aug 11 00:46:42 2026] [::1]:63758 Closing
+[Tue Aug 11 00:46:42 2026] [::1]:63643 Accepted
+[Tue Aug 11 00:46:42 2026] [::1]:63643 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:42 2026] [::1]:63643 Closing
+[Tue Aug 11 00:46:42 2026] [::1]:61112 Accepted
+[Tue Aug 11 00:46:42 2026] [::1]:61112 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:42 2026] [::1]:54299 Accepted
+[Tue Aug 11 00:46:42 2026] [::1]:54299 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:42 2026] [::1]:61112 Closing
+[Tue Aug 11 00:46:42 2026] [::1]:54299 Closing
+[Tue Aug 11 00:46:46 2026] [::1]:62762 Accepted
+[Tue Aug 11 00:46:46 2026] [::1]:64730 Accepted
+[Tue Aug 11 00:46:46 2026] [::1]:62762 Closing
+[Tue Aug 11 00:46:46 2026] [::1]:64730 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:46 2026] [::1]:64730 Closing
+[Tue Aug 11 00:46:46 2026] [::1]:55902 Accepted
+[Tue Aug 11 00:46:46 2026] [::1]:55902 [200]: GET /application/uploads/placeholder-default.svg
+[Tue Aug 11 00:46:46 2026] [::1]:55902 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:53783 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:61070 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:53783 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:61070 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:61459 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:61459 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:46:58 2026] [::1]:61459 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:50618 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:55418 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:50437 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:50618 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:46:58 2026] [::1]:49826 Accepted
+[Tue Aug 11 00:46:58 2026] [::1]:55418 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:46:58 2026] [::1]:50437 [200]: GET /application/uploads/c7b70455828ec5f5b69c289ae518bcb2.jpg
+[Tue Aug 11 00:46:58 2026] [::1]:49826 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:50618 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:55418 Closing
+[Tue Aug 11 00:46:58 2026] [::1]:50437 Closing
+[Tue Aug 11 00:47:10 2026] [::1]:61595 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:64581 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:61595 Closing
+[Tue Aug 11 00:47:12 2026] [::1]:64581 Closing
+[Tue Aug 11 00:47:12 2026] [::1]:59257 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:59257 [200]: GET /assets/css/admin.css
+[Tue Aug 11 00:47:12 2026] [::1]:59257 Closing
+[Tue Aug 11 00:47:12 2026] [::1]:54145 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:54145 [200]: GET /application/uploads/placeholder-ransomware.svg
+[Tue Aug 11 00:47:12 2026] [::1]:56833 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:55739 Accepted
+[Tue Aug 11 00:47:12 2026] [::1]:56833 [200]: GET /application/uploads/placeholder-ai.svg
+[Tue Aug 11 00:47:12 2026] [::1]:55739 Closing
+[Tue Aug 11 00:47:12 2026] [::1]:54145 Closing
+[Tue Aug 11 00:47:12 2026] [::1]:56833 Closing
