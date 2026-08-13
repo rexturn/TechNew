@@ -40,7 +40,6 @@
 
         <div class="login-foot">
             <a href="<?php echo site_url(); ?>">&#8592; Kembali ke Beranda</a><br>
-            Default: <span class="status">admin / admin123</span>
         </div>
     </div>
 </body>
